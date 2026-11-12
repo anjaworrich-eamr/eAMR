@@ -1,0 +1,9 @@
+# input data and results are not part of the repository
+data/
+output/
+logs/
+Rplots.pdf
+.Rproj.user/
+.Rhistory
+.RData
+.DS_Store
